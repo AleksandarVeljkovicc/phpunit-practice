@@ -1,0 +1,12 @@
+{
+    "name": "user/phpunit-practice",
+    "description": "A simple PHP project to practice PHPUnit testing",
+    "require-dev": {
+        "phpunit/phpunit": "^10"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
