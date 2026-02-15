@@ -1,6 +1,6 @@
 <?php
 use PHPUnit\Framework\TestCase;
-use App\Services\SingletonService;
+use App\DesignPatterns\Singleton\SingletonService;
 
 class SingletonServiceTest extends TestCase
 {
